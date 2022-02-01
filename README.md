@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The purpose of this challenge was to recreate the QR code component from the challenge using HTML and CSS. 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://qymmore.github.io/QR-code-component/)
+- [Live Site URL](https://qymmore.github.io/QR-code-component/)
 
 ## My process
 
